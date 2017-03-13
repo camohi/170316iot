@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 3
+  domain: mybluemix.net
+  name: 170316iot
+  host: 170316iot
+  disk_quota: 1024M
